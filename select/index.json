@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "ルーツ (Instrumental)",
+  "base_artist": "AKASAKI",
+  "createdAt": "2025-12-05T14:56:56.462376Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ルーツ",
+      "artist": "AKASAKI",
+      "has_synced": true,
+      "path": "select/01_ルーツ_AKASAKI.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ルーツ・ロック・ライオット",
+      "artist": "Skindred",
+      "has_synced": false,
+      "path": "select/02_ルーツ・ロック・ライオット_Skindred.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ルーツ・トゥ・セヴァー",
+      "artist": "Be'Lakor",
+      "has_synced": false,
+      "path": "select/03_ルーツ・トゥ・セヴァー_Be'Lakor.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ルーツ - Sped Up",
+      "artist": "AKASAKI",
+      "has_synced": true,
+      "path": "select/04_ルーツ_-_Sped_Up_AKASAKI.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ルーツ",
+      "artist": "AKASAKI",
+      "has_synced": false,
+      "path": "select/pl_01_ルーツ_AKASAKI.txt"
+    }
+  ]
+}
